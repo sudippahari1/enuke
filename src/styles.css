@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  justify-content: center;
+  display: flex;
+}
+.tr > th {
+  border: 1px solid black;
+}
+
+.trtd > td {
+  border: 1px solid black;
+}
